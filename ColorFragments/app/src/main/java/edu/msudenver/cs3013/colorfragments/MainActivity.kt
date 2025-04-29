@@ -1,3 +1,5 @@
+//Braedon Bellamy 
+//Project 2
 package edu.msudenver.cs3013.colorfragments
 
 import android.os.Bundle
